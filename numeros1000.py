@@ -1,11 +1,6 @@
 
-from contextlib import ContextDecorator
-
-from hamcrest import contains_inanyorder
-
-
 def run():
-    frase = "te amo karen"
+    frase = "te amo karen calanchi"
     for letra in frase:
         print (letra)
     
