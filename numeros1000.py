@@ -1,6 +1,6 @@
 
 def run():
-    frase = "te amo karen calanchi"
+    frase = "te amo karen isabel calanchi gutierrez"
     for letra in frase:
         print (letra)
     
